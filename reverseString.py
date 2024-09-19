@@ -5,6 +5,18 @@
 def reverse(string):
     return string[::-1]
 
-string = input('what is your string?\n')
-reversed = reverse(string)
+reversed = reverse('hello world')
 print(reversed)
+
+
+#what if you can't use the slice method?
+
+def reverseNoSlice(string):
+    reversedString = []
+    for letter in string:
+        reversedString.append(letter)
+    reversedString.reverse()
+    revStr = ''.join(reversedString)
+    return revStr
+
+print(reverseNoSlice('hello world'))
