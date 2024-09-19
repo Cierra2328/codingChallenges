@@ -8,3 +8,17 @@ function reverseString(string){
 }
 
 console.log(reverseString('hello world'));
+
+
+//what if you can't use the reverse method?
+function revNoReverse(string){
+    reversed = string.split('');
+    newArray = [];
+    reversed.forEach(element => {
+        newArray.unshift(element);
+    });
+    reversed = newArray.join('');
+    return reversed;
+}
+
+console.log(revNoReverse('hello world'))
