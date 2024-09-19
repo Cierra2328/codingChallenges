@@ -2,10 +2,10 @@
 # This is a simple but challenging challenge that tests your understanding of strings and reversing them.
 
 #function and console input to reverse a string in python
-def reverse(string):
+def reverseString(string):
     return string[::-1]
 
-reversed = reverse('hello world')
+reversed = reverseString('hello world')
 print(reversed)
 
 
