@@ -5,8 +5,7 @@
 def reverseString(string):
     return string[::-1]
 
-reversed = reverseString('hello world')
-print(reversed)
+print(reverseString('hello world'))
 
 
 #what if you can't use the slice method?
