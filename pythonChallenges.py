@@ -79,3 +79,65 @@ def sortArray(array):
 sortArray([21, 30, 5, 16, 50])
 
 
+################################################################################
+#Coding Challenge #5
+#* **Write a function that finds the maximum value in an array of numbers.** 
+# This is a simple but challenging challenge that tests your understanding of arrays and finding the maximum value.
+
+def findMax(array):
+    num = array[0]
+    for x in range(len(array)):
+        if array[x] > num:
+            num = array[x]
+    
+    print('The highest number in the list is:', num)
+
+findMax([50, 35, 21, 60, 95, 100])
+
+
+######################################################################################
+#Coding Challenge #6
+#* **Write a function that finds the minimum value in an array of numbers.** 
+# This is similar to the previous challenge, but it tests your understanding of finding the minimum value.
+
+def findMin(array):
+    num = array[0]
+    for x in range(len(array)):
+        if array[x] < num:
+            num = array[x]
+    print('The lowest number in the list is:', num)
+
+findMin([22, 34, 8, 100, 3, 20])
+
+
+#########################################################################################
+#Coding Challenge #7
+#* **Write a function that checks if a number is prime.** A prime number is a number that is only divisible by itself and 1. 
+# This challenge tests your understanding of prime numbers and the logic behind checking if a number is prime.
+
+import math as m
+def findPrime(num):
+    if num <= 1:
+        return False
+    for x in range(2, int(m.sqrt(num)) + 1):
+        if num % x == 0:
+            return False
+        
+    return True        
+
+print(findPrime(1049))
+
+###########################################################################################
+#Coding Challenge #8
+#* **Find the factorial of a number.** 
+# This is a classic coding challenge that tests your understanding of recursion and factorials.
+
+def factorial(num):
+    result = 1
+    for x in range(num):
+        result = result * num
+        num = num - 1
+        
+    print(result)
+
+factorial(6)
