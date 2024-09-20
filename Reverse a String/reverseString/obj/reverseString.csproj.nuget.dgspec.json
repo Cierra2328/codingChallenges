@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\codingChallenges\\reverseString\\reverseString.csproj": {}
+    "C:\\Repos\\codingChallenges\\Reverse a String\\reverseString\\reverseString.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\codingChallenges\\reverseString\\reverseString.csproj": {
+    "C:\\Repos\\codingChallenges\\Reverse a String\\reverseString\\reverseString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\codingChallenges\\reverseString\\reverseString.csproj",
+        "projectUniqueName": "C:\\Repos\\codingChallenges\\Reverse a String\\reverseString\\reverseString.csproj",
         "projectName": "reverseString",
-        "projectPath": "C:\\Repos\\codingChallenges\\reverseString\\reverseString.csproj",
+        "projectPath": "C:\\Repos\\codingChallenges\\Reverse a String\\reverseString\\reverseString.csproj",
         "packagesPath": "C:\\Users\\ap28_\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\codingChallenges\\reverseString\\obj\\",
+        "outputPath": "C:\\Repos\\codingChallenges\\Reverse a String\\reverseString\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

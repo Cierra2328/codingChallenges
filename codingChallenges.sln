@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Reverse a String", "Reverse a String", "{FA5D8009-FB5A-4E22-B8E2-D6697435E39C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "reverseString", "Reverse a String\reverseString\reverseString.csproj", "{A3A13EE1-552E-4B2B-B919-A7E2D8A6CD24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3A13EE1-552E-4B2B-B919-A7E2D8A6CD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A13EE1-552E-4B2B-B919-A7E2D8A6CD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A13EE1-552E-4B2B-B919-A7E2D8A6CD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A13EE1-552E-4B2B-B919-A7E2D8A6CD24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A3A13EE1-552E-4B2B-B919-A7E2D8A6CD24} = {FA5D8009-FB5A-4E22-B8E2-D6697435E39C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {556603CE-7347-4F52-BDAE-855F45178A7F}
+	EndGlobalSection
+EndGlobal

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dvks5lyUMyvmDTiFW9d3ebllycuaE7qKcniqa0nyqaUrpuPKY9r6DgXg7bsPKyQKE5n5HBAZjq8F6W9e0p5msw==",
+  "dgSpecHash": "oEBREeLrGCqzxmuXRfFRHUaJjOKN2dGp7z7aZqgs7jOiGmjT/QSiW/hGje8WGr9kLpSPOo+p4E8SMWhjBmEJ4g==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\codingChallenges\\reverseString\\reverseString.csproj",
+  "projectFilePath": "C:\\Repos\\codingChallenges\\Reverse a String\\reverseString\\reverseString.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
