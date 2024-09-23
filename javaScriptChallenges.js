@@ -45,7 +45,7 @@ console.log(fibonacci());
 
 
  /////////////////////////////////////////////////////////////
-/*#Coding Challenge #3
+/*Coding Challenge #3
 * **Check if a string is a palindrome.** 
  A palindrome is a string that reads the same backward as forward. 
  This challenge tests your understanding of strings and reversing them.*/

@@ -1,0 +1,14 @@
+C:\Repos\codingChallenges\csharpChallenges\bin\Debug\net7.0\csharpChallenges.exe
+C:\Repos\codingChallenges\csharpChallenges\bin\Debug\net7.0\csharpChallenges.deps.json
+C:\Repos\codingChallenges\csharpChallenges\bin\Debug\net7.0\csharpChallenges.runtimeconfig.json
+C:\Repos\codingChallenges\csharpChallenges\bin\Debug\net7.0\csharpChallenges.dll
+C:\Repos\codingChallenges\csharpChallenges\bin\Debug\net7.0\csharpChallenges.pdb
+C:\Repos\codingChallenges\csharpChallenges\obj\Debug\net7.0\csharpChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\codingChallenges\csharpChallenges\obj\Debug\net7.0\csharpChallenges.AssemblyInfoInputs.cache
+C:\Repos\codingChallenges\csharpChallenges\obj\Debug\net7.0\csharpChallenges.AssemblyInfo.cs
+C:\Repos\codingChallenges\csharpChallenges\obj\Debug\net7.0\csharpChallenges.csproj.CoreCompileInputs.cache
+C:\Repos\codingChallenges\csharpChallenges\obj\Debug\net7.0\csharpChallenges.dll
+C:\Repos\codingChallenges\csharpChallenges\obj\Debug\net7.0\refint\csharpChallenges.dll
+C:\Repos\codingChallenges\csharpChallenges\obj\Debug\net7.0\csharpChallenges.pdb
+C:\Repos\codingChallenges\csharpChallenges\obj\Debug\net7.0\csharpChallenges.genruntimeconfig.cache
+C:\Repos\codingChallenges\csharpChallenges\obj\Debug\net7.0\ref\csharpChallenges.dll
